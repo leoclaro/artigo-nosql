@@ -1,0 +1,7 @@
+Arestas e vértices
+
+Grafos(G=(E,V));
+
+Arestas = relacionamento (caminho percorrido)
+
+vértices = BOLINHA!!!!
