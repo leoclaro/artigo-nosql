@@ -1,0 +1,7 @@
+3
+ 1	Sistemas baseados em armazenamento chave-valor (Key/Value Store)
+
+
+De acordo com Nascimento (2010), baseia-se numa coleção de chaves únicas e de valores, hash
+
+Os sistemas baseados em Key/Value Store podem ser definidos como “[...] tipo de banco de dados NoSQL mais simples, o conceito dele é uma chave e um valor para essa chave. Mas ele é o que aguenta mais carga de dados. Esses tipos de bancos de dados são o que tem a maior escalabilidade” (NASCIMENTO, 2010). 
